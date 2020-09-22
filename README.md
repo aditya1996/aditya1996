@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Aditya :eyes:
-and I like to code fun weekend projects that add value to my life. Basically I'm lazy so I code instead :stuck_out_tongue:
+and I like to code fun weekend projects that add value to my life :bulb:
 
 My Projects are mostly:
 
@@ -12,4 +12,6 @@ My Projects are mostly:
 
 And I have tinkered with:
 
-  1. 
+  1. :clipboard: Flask
+  2. :chart_with_upwards_trend: Dash for Python
+  3. :book: Sci-Kit Learn
